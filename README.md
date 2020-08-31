@@ -1,4 +1,4 @@
-## 一、背景
+# 一、背景
 
 前后端分离已经成为互联网项目开发标准，它会为以后的大型分布式架构打下基础。[SpringBoot](https://projects.spring.io/spring-boot/)使编码配置部署都变得简单，越来越多的互联网公司已经选择SpringBoot作为微服务的入门级微框架。
 
@@ -79,10 +79,6 @@
 ![](https://oscimg.oschina.net/oscnet/e734e53d9c9e92665fc8eae18168f845686.jpg)
 
 
-第一次做自己的项目，经验不足，如果大家有什么好的意见或批评，请务必issue一下。
-
-加博主进交流群，一起优化进步（或wx搜索：53182347）：
 
 
 
-![](https://oscimg.oschina.net/oscnet/up-82beddfedc2723fc46f04606ac698792659.png)
